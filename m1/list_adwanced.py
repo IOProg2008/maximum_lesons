@@ -10,6 +10,10 @@ my_list=[1,2,3,4,5,6,7,8]
 #print(sum(my_list)/len(my_list))
 #get max or min alement from list
 # chenge list
-# add eliment to end of list
-my_list.append('a')
-print(my_list)
+# add eliment to end in list
+# my_list.append('a')
+# print(my_list)
+# #add item in list with mayne playce
+# my_list.insert(0,"b")
+# print(my_list)
+#removing element
