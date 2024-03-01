@@ -17,3 +17,5 @@ my_list=[1,2,3,4,5,6,7,8]
 # my_list.insert(0,"b")
 # print(my_list)
 #removing element
+my_list.remove(5)
+print(my_list)
