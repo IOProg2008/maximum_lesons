@@ -17,5 +17,11 @@ my_list=[5,1,2,3,4,5,6,7,8,5]
 # my_list.insert(0,"b")
 # print(my_list)
 #removing element
-my_list.remove(5)
-print(my_list)
+# my_list.remove(5)
+
+# удоление конкретного элимента
+# print(my_list)
+# del my_list[0]
+# print(my_list)
+
+проверка в
