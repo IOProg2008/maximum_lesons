@@ -24,6 +24,6 @@ my_list=[5,1,2,3,4,5,6,7,8,5]
 # del my_list[0]
 # print(my_list)
 
-# проверка вхождения
-if 8 in my_list:
-    print('есть')
+# # проверка вхождения
+# if 8 in my_list:
+#     print('есть')
