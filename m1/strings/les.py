@@ -20,10 +20,10 @@
 #
 # # разбитие
 # # string_s="s t r i n g"
-# # string_u='s/t/r/i/n/g'
+string_u='s/t/r/i/n/g'
 # # print(string.split())
 # # print(string_s.split())
-# # print(string_u.split('/'))
+print(string_u.split('/'))
 #
 # # замена симвалов
 # # i='011100000221545010202522052202202'
@@ -46,6 +46,23 @@
 # # a [0]=22
 # # print(a)
 
-# a="aaabc"
-# print(a.count('a'))
+#  a="aaabc"
+# # print(a.count('a'))
+# # изменение регистра
+
+# print('ABC'.lower())
+# print('abc'.upper())
+# print('ABcd'.capitalize())
+# print('ab cd'.title())
+
+# срез строки
+# print('ABCD'[1:5])
+
+# Наличие подстроки
+ imput='ccvvjgk228'
+# if'рр' in input:
+#     print('есть')
+
+for o in inmput:
+    print(o)
 
