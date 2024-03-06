@@ -37,9 +37,12 @@ string_2="строка"
 
 # индэксация строк
 
-# a='string'
+a='string'
 # print(a[1])
 
-for a in d:
-    print()
+# for a in dalta:
+#     print(dalta)
+
+# a [0]=22
+# print(a)
 
