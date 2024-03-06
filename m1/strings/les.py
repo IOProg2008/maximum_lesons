@@ -45,4 +45,7 @@
 #
 # # a [0]=22
 # # print(a)
-#
+
+# a="aaabc"
+# print(a.count('a'))
+
