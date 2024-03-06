@@ -34,3 +34,12 @@ string_2="строка"
 # i=['Hi','Bro']
 # o=','.join(i)
 # print(o)
+
+# индэксация строк
+
+# a='string'
+# print(a[1])
+
+for a in d:
+    print()
+
