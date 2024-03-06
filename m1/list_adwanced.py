@@ -29,3 +29,8 @@ my_list=[5,1,2,3,4,5,6,7,8,5]
 #     print('есть')
 
 # объединение
+
+# my_list_2=['a','b','c']
+# neolist=my_list+my_list_2
+#
+# print(neolist)
