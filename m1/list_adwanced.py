@@ -34,3 +34,11 @@ my_list=[5,1,2,3,4,5,6,7,8,5]
 # neolist=my_list+my_list_2
 #
 # print(neolist)
+
+# итэрирование range
+
+# for i in range(len(my_list)):
+#     print(my_list[i])
+
+# for i in range(len(my_list),-1):
+#     print(my_list[i],my_list[i+1])
