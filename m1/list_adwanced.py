@@ -57,3 +57,6 @@ m=[12,13,0,88]
 # print(sorted(m))
 
 # разварот списка
+
+m.reverse()
+print(m)
