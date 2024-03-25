@@ -16,3 +16,10 @@
 # for line in fael:
 #     print(line)
 # fael.close()
+
+
+# fael mods
+
+# r-riding
+# w-writing
+# a-append
